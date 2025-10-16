@@ -89,15 +89,16 @@ The PID controller was implemented using a **discretized control formulation** t
 
 ---
 
-## 📸 Demo
+##  Demo
 
-*(You can add screenshots or videos of your Webots simulations here if available.)*
+A demo video showcasing the e-puck robot’s performance in Mini Project 2 (maze navigation and line following using PID control) is included in the repository.
+You can find it in the following path:
+
+MiniProject2/demo/
 
 ---
 
-## 👨‍💻 Author
+##  Author
 
 **Setayesh Khasehtarash**
 Digital Control Systems Lab — Amirkabir University of Technology
-
-Would you like me to make it slightly more **professional for a GitHub portfolio** (e.g., with badges, more polished tone, and formatted equations for PID)? That version looks great if you plan to showcase it in your MEXT or grad school applications.
